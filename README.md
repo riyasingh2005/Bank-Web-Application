@@ -42,9 +42,9 @@ A full-stack banking system enabling user registration, secure login, account ba
     spring.datasource.password=YOUR_PASSWORD <br>
     spring.jpa.hibernate.ddl-auto=update <br>
 
-4. Run the App
-./mvnw spring-boot:run
-Or run via IDE.
+4. Run the App <br>
+./mvnw spring-boot:run  <br>
+Or run via IDE.  <br>
 
-5. Open in Browser
+5. Open in Browser  <br>
 http://localhost:8080
