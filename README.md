@@ -37,10 +37,10 @@ A full-stack banking system enabling user registration, secure login, account ba
 
 3. Update src/main/resources/application.properties:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/banking_system
-spring.datasource.username=YOUR_USERNAME
-spring.datasource.password=YOUR_PASSWORD
-spring.jpa.hibernate.ddl-auto=update
+    spring.datasource.url=jdbc:mysql://localhost:3306/banking_system
+    spring.datasource.username=YOUR_USERNAME
+    spring.datasource.password=YOUR_PASSWORD
+    spring.jpa.hibernate.ddl-auto=update
 
 4. Run the App
 ./mvnw spring-boot:run
